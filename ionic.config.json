@@ -1,5 +1,7 @@
 {
   "name": "item-sliding-bug-repro",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
